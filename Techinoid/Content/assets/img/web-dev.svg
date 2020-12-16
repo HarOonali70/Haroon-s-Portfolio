@@ -1,0 +1,27 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74 74">
+                                            <defs>
+                                                <style>
+                                                    .wd-1 {
+                                                        opacity: 0.6;
+                                                    }
+                                                    
+                                                    wd-1,
+                                                    .wd-2 {
+                                                        fill: #44638B;
+                                                    }
+                                                </style>
+                                            </defs>
+                                            <title>Artboard 52</title>
+                                            <g class="wd-1">
+                                                <rect class="wd-2" x="43.94" y="58.97" width="2.31" height="9.25" />
+                                                <rect class="wd-2" x="30.06" y="58.97" width="2.31" height="9.25" />
+                                                <rect class="wd-2" x="27.75" y="67.06" width="20.81" height="2.31" />
+                                                <rect class="wd-2" x="27.75" y="48.56" width="25.44" height="2.31" />
+                                                <rect class="wd-2" x="37" y="53.19" width="2.31" height="2.31" />
+                                                <rect class="wd-2" x="27.75" y="57.81" width="25.44" height="2.31" />
+                                                <path class="wd-2" d="M74,37H71.69V6.94H2.31V27.75H0V6.94A2.32,2.32,0,0,1,2.31,4.63H71.69A2.32,2.32,0,0,1,74,6.94Z" /> </g>
+                                            <rect class="wd-2" x="1.16" y="57.81" width="23.13" height="2.31" />
+                                            <path class="wd-2" d="M23.13,69.38H2.31A2.32,2.32,0,0,1,0,67.06V32.38a2.32,2.32,0,0,1,2.31-2.31H23.13a2.32,2.32,0,0,1,2.31,2.31V67.06A2.32,2.32,0,0,1,23.13,69.38Zm-20.81-37V67.06H23.13V32.38Z" />
+                                            <path class="wd-2" d="M71.69,69.38H57.81a2.32,2.32,0,0,1-2.31-2.31V41.63a2.32,2.32,0,0,1,2.31-2.31H71.69A2.32,2.32,0,0,1,74,41.63V67.06A2.32,2.32,0,0,1,71.69,69.38ZM57.81,41.63V67.06H71.69V41.63Z" />
+                                            <rect class="wd-2" x="56.66" y="62.44" width="16.19" height="2.31" />
+                                            <rect class="wd-2" x="9.25" y="62.44" width="6.94" height="2.31" /> </svg>
